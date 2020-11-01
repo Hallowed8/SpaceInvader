@@ -26,4 +26,5 @@ Project is created with:
 * Qt 5.12
 	
 ## Setup
-To run this project, install it locally using npm:
+To run this project:
+* will be added soon
